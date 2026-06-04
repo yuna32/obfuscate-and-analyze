@@ -1,0 +1,11 @@
+target,level,text_size_bytes
+target_easy,none,548
+target_easy,L1,548
+target_easy,L1L2,548
+target_easy,L1L2L3,548
+target_easy,L1L2L3L4,548
+target_hard,none,738
+target_hard,L1,738
+target_hard,L1L2,738
+target_hard,L1L2L3,738
+target_hard,L1L2L3L4,738

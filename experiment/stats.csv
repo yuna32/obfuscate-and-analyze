@@ -1,0 +1,11 @@
+target,level,file_size_bytes,pt_load_filesz,injected_count
+target_easy,none,19272,885,0
+target_easy,L1,19272,885,63
+target_easy,L1L2,19272,885,72
+target_easy,L1L2L3,19272,1329,76
+target_easy,L1L2L3L4,19272,1514,81
+target_hard,none,19624,1005,0
+target_hard,L1,19624,1005,74
+target_hard,L1L2,19624,1005,77
+target_hard,L1L2L3,19624,1770,95
+target_hard,L1L2L3L4,19624,1955,100
