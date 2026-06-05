@@ -139,8 +139,6 @@ python plot_results.py --input results.csv
 
 - *"Digital Camouflage": The LLVM Challenge in LLM-Based Malware Detection* — TU Berlin / Fraunhofer, 2025
 - *The Cost of Understanding: LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation* — Elastic Security Labs, 2026
-- *Can LLMs Deobfuscate Binary Code?* — arXiv, 2026
-
 ---
 
 ## 한계 및 후속 연구 방향
